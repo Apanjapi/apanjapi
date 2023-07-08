@@ -22,24 +22,47 @@ My process focuses on understanding the needs and desires of the end user, devel
 
 ## Skills ⚡
 
+|||---|||
 *** promo
 #### Research 🔍
+- Surveys
+- Competitor Analysis
+- Customer Retention Metrics
+- User Testing
+- User Research
+- User Journeys
+- A/B Testing
+- UX Benchmarking
+***
 
-Surveys
+*** promo
+#### Design 🖊️
+- Information Architecture
+- User-Centered Design
+- Design Thinking
+- Interaction Design
+***
+
+*** promo
+### Prototype 💻
+- Storyboards
+- Wireframing
+- Playable Prototypes
+- Design Systems
+- Visual Design
+- High Fidelity Mockups
+***
+
+*** promo
+### Tools & Environment 🛠️
+- Figma
+- Adobe Creative Cloud
+- JavaScript
+- HTML
+- CSS
+- Unity
 ***
 |||---|||
-
-
-| Research 🔍  | Design 🖊️ | Prototype 💻  | Tools & Environment 🛠️  |
-| ------------- | ------------- | ------------- | ------------- |
-| Surveys  | Information Architecture  | Storyboards  | Figma  |
-| Competitor Analysis  | User-Centered Design  | Wireframing  | Adobe Creative Cloud  |
-| Customer Retention Metrics  | Design Thinking  | Playable Prototypes  | JavaScript  |
-| User Testing  | Interaction Design  | Design Systems  | HTML  |
-| User Journeys  |   |  Visual Design  | CSS  |
-| A/B Testing  |   | High Fidelity Mockups  | Unity  |
-| UX Benchmarking  |   |   |
-
 
 <!--
 **apanjapi/apanjapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
