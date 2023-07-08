@@ -11,10 +11,16 @@ Currently [@Hothead Games🎮](https://www.hotheadgames.com/) | Previously [@Sco
 I’m a multidisciplinary UI/UX Designer with a passion for metrics, heuristics, and enjoyable experience. I bring in a unique blend of creativity and technical skills to every project with my background in research🧪 and front-end development💻
 
 My goal is to find the ideal solution through all the paths necessary by using creativity and suitable methodologies.
+<br><br>
+📫 How to reach me **apitch.panja@gmail.com**
+📄 Know about my experiences [**Amelie Panja Resume**](https://uploads-ssl.webflow.com/6281cd6f3c64c4e67249220b/64a8fd2b410ff206850339f7_Amelie_Panja_Resume.pdf)
 
 ## Experience 💼
 
 I have worked with a variety of digital products, such as video games, an NFT marketplace, web applications and ordering kiosks.
+<br><br>
+🔭 I’m currently working on [Super Hit Baseball](https://play.google.com/store/apps/details?id=com.offfgames.android.free.baseballbattle&hl=en&gl=US)
+👨‍💻 All of my projects are available at [https://apanjapi.webflow.io/](https://apanjapi.webflow.io/)
 
 ## Process ✏️
 
