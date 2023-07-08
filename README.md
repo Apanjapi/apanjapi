@@ -21,22 +21,38 @@ I have worked with a variety of digital products, such as video games, an NFT ma
 My process focuses on understanding the needs and desires of the end user, developing empathy for their lives, and bringing insight gained through observations and research into my designs. I am passionate about creating user-centered experiences, whether it's in a product or a service.
 
 ## Skills ⚡
+### Research 🔍
+- Surveys
+- Competitor Analysis
+- Customer Retention Metrics
+- User Testing
+- User Research
+- User Journeys
+- A/B Testing
+- UX Benchmarking
 
-|||---|||
-#### Columns
+### Design 🖊️
+- Information Architecture
+- User-Centered Design
+- Design Thinking
+- Interaction Design
 
-can save space.
+### Prototype 💻
+- Storyboards
+- Wireframing
+- Playable Prototypes
+- Design Systems
+- Visual Design
+- High Fidelity Mockups
 
-#### Prettify
+### Tools & Environment 🛠️
+- Figma
+- Adobe Creative Cloud
+- JavaScript
+- HTML
+- CSS
+- Unity
 
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||
 <!--
 **apanjapi/apanjapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
