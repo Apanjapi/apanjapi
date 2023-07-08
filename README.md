@@ -23,17 +23,19 @@ My process focuses on understanding the needs and desires of the end user, devel
 ## Skills ⚡
 
 |||---|||
-### Research 🔍
-Surveys
+#### Columns
 
-### Design 🖊️
-Information Architecture
+can save space.
 
-### Prototype 💻
-Storyboards
+#### Prettify
 
-### Tools & Environment 🛠️
-Figma
+the page layout.
+
+*** promo
+#### Can be
+
+trendy.
+***
 |||---|||
 <!--
 **apanjapi/apanjapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
