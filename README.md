@@ -22,7 +22,7 @@ My process focuses on understanding the needs and desires of the end user, devel
 
 ## Skills ⚡
 
-|||----|||
+|||---|||
 ### Research 🔍
 Surveys
 Competitor Analysis
@@ -54,7 +54,7 @@ JavaScript
 HTML
 CSS
 Unity
-|||----|||
+|||---|||
 
 <!--
 **apanjapi/apanjapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
