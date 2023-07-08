@@ -25,37 +25,16 @@ My process focuses on understanding the needs and desires of the end user, devel
 |||---|||
 ### Research 🔍
 Surveys
-Competitor Analysis
-Customer Retention Metrics
-User Testing
-User Research
-User Journeys
-A/B Testing
-UX Benchmarking
 
 ### Design 🖊️
 Information Architecture
-User-Centered Design
-Design Thinking
-Interaction Design
 
 ### Prototype 💻
 Storyboards
-Wireframing
-Playable Prototypes
-Design Systems
-Visual Design
-High Fidelity Mockups
 
 ### Tools & Environment 🛠️
 Figma
-Adobe Creative Cloud
-JavaScript
-HTML
-CSS
-Unity
 |||---|||
-
 <!--
 **apanjapi/apanjapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
