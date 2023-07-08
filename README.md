@@ -22,6 +22,14 @@ My process focuses on understanding the needs and desires of the end user, devel
 
 ## Skills ⚡
 
+*** promo
+#### Research 🔍
+
+- Surveys
+***
+|||---|||
+
+
 | Research 🔍  | Design 🖊️ | Prototype 💻  | Tools & Environment 🛠️  |
 | ------------- | ------------- | ------------- | ------------- |
 | Surveys  | Information Architecture  | Storyboards  | Figma  |
