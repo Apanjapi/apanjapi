@@ -23,7 +23,7 @@ My process focuses on understanding the needs and desires of the end user, devel
 ## Skills ⚡
 
 |||----|||
-#### Research 🔍
+### Research 🔍
 Surveys
 Competitor Analysis
 Customer Retention Metrics
@@ -33,7 +33,7 @@ User Journeys
 A/B Testing
 UX Benchmarking
 
-#### Design 🖊️
+### Design 🖊️
 Information Architecture
 User-Centered Design
 Design Thinking
