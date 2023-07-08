@@ -21,21 +21,17 @@ I have worked with a variety of digital products, such as video games, an NFT ma
 My process focuses on understanding the needs and desires of the end user, developing empathy for their lives, and bringing insight gained through observations and research into my designs. I am passionate about creating user-centered experiences, whether it's in a product or a service.
 
 ## Skills ⚡
-### Research 🔍
-- Surveys
-- Competitor Analysis
-- Customer Retention Metrics
-- User Testing
-- User Research
-- User Journeys
-- A/B Testing
-- UX Benchmarking
 
-### Design 🖊️
-- Information Architecture
-- User-Centered Design
-- Design Thinking
-- Interaction Design
+| Research 🔍  | Second Header |
+| ------------- | ------------- |
+| Surveys  | Information Architecture  |
+| Competitor Analysis  | User-Centered Design  |
+| Customer Retention Metrics  | Design Thinking  |
+| User Testing  | Interaction Design  |
+| User Journeys  |   |
+| A/B Testing  |   |
+| UX Benchmarking  |   |
+
 
 ### Prototype 💻
 - Storyboards
@@ -66,4 +62,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+### Research 🔍
+- Surveys
+- Competitor Analysis
+- Customer Retention Metrics
+- User Testing
+- User Research
+- User Journeys
+- A/B Testing
+- UX Benchmarking
+
+### Design 🖊️
+- Information Architecture
+- User-Centered Design
+- Design Thinking
+- Interaction Design
 -->
