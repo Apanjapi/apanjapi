@@ -1,6 +1,7 @@
 # 👋Hey! I'm Amelie
 
 and I'm a **UI/UX Designer** with a coding background.
+
 I design for enjoyable experiences by iterating fast and analyzing product usage.
 Currently [@Hothead Games🎮](https://www.hotheadgames.com/) | Previously [@ScopeMedia](https://scopemedia.com/), [Goopter](https://www.goopter.com/)
 
