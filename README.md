@@ -22,32 +22,16 @@ My process focuses on understanding the needs and desires of the end user, devel
 
 ## Skills ⚡
 
-| Research 🔍  | Second Header |
-| ------------- | ------------- |
-| Surveys  | Information Architecture  |
-| Competitor Analysis  | User-Centered Design  |
-| Customer Retention Metrics  | Design Thinking  |
-| User Testing  | Interaction Design  |
-| User Journeys  |   |
-| A/B Testing  |   |
-| UX Benchmarking  |   |
+| Research 🔍  | Design 🖊️ | Prototype 💻  | Tools & Environment 🛠️  |
+| ------------- | ------------- | ------------- | ------------- |
+| Surveys  | Information Architecture  | Storyboards  | Figma  |
+| Competitor Analysis  | User-Centered Design  | Wireframing  | Adobe Creative Cloud  |
+| Customer Retention Metrics  | Design Thinking  | Playable Prototypes  | JavaScript  |
+| User Testing  | Interaction Design  | Design Systems  | HTML  |
+| User Journeys  |   |  Visual Design  | CSS  |
+| A/B Testing  |   | High Fidelity Mockups  | Unity  |
+| UX Benchmarking  |   |   |
 
-
-### Prototype 💻
-- Storyboards
-- Wireframing
-- Playable Prototypes
-- Design Systems
-- Visual Design
-- High Fidelity Mockups
-
-### Tools & Environment 🛠️
-- Figma
-- Adobe Creative Cloud
-- JavaScript
-- HTML
-- CSS
-- Unity
 
 <!--
 **apanjapi/apanjapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,4 +67,20 @@ Here are some ideas to get you started:
 - User-Centered Design
 - Design Thinking
 - Interaction Design
+
+### Prototype 💻
+- Storyboards
+- Wireframing
+- Playable Prototypes
+- Design Systems
+- Visual Design
+- High Fidelity Mockups
+
+### Tools & Environment 🛠️
+- Figma
+- Adobe Creative Cloud
+- JavaScript
+- HTML
+- CSS
+- Unity
 -->
