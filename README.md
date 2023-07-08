@@ -23,7 +23,6 @@ My process focuses on understanding the needs and desires of the end user, devel
 ## Skills ⚡
 
 |||---|||
-*** promo
 #### Research 🔍
 Surveys
 Competitor Analysis
@@ -33,17 +32,13 @@ User Research
 User Journeys
 A/B Testing
 UX Benchmarking
-***
 
-*** promo
 #### Design 🖊️
 Information Architecture
 User-Centered Design
 Design Thinking
 Interaction Design
-***
 
-*** promo
 ### Prototype 💻
 Storyboards
 Wireframing
@@ -51,9 +46,7 @@ Playable Prototypes
 Design Systems
 Visual Design
 High Fidelity Mockups
-***
 
-*** promo
 ### Tools & Environment 🛠️
 Figma
 Adobe Creative Cloud
@@ -61,7 +54,6 @@ JavaScript
 HTML
 CSS
 Unity
-***
 |||---|||
 
 <!--
