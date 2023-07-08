@@ -25,7 +25,7 @@ My process focuses on understanding the needs and desires of the end user, devel
 *** promo
 #### Research 🔍
 
-- Surveys
+Surveys
 ***
 |||---|||
 
